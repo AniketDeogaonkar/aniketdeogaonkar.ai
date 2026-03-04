@@ -113,10 +113,10 @@ const Hero: React.FC = () => {
             I am a{" "}
             <TypewriterText
               texts={[
-                "AI Engineer",
+                "AI Engineer ",
                 "ML Engineer ",
                 "Deep Learning Fan ",
-                "Django Developer.",
+                "Django Developer ",
               ]}
             />
           </h2>
@@ -139,7 +139,7 @@ const Hero: React.FC = () => {
             </motion.a>
 
             <motion.a
-              href="https://drive.google.com/file/d/1Vf9-rLJO_wDmddwgmVbL1nKUEDAPklw7"
+              href="https://drive.google.com/file/d/1jFT3HEuUtdG2BQN7s3BJ_dZtelRXVGf4"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{
