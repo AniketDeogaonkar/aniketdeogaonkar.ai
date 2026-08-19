@@ -139,7 +139,7 @@ const Hero: React.FC = () => {
             </motion.a>
 
             <motion.a
-              href="https://drive.google.com/file/d/1GwhLR4jo-bwCau8NT9bRlnzFRVZB_qy4/view?usp=sharing"
+              href="https://drive.google.com/file/d/1uoAyVFJfQ4TcCHGOLyx_O1J8YbB0sfBR/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{
